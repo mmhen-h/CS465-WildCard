@@ -1,0 +1,36 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Spiri/Documents/Unreal Projects/CS465_WildCard/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Spiri/Documents/Unreal Projects/CS465_WildCard/Content/MainLevel.umap",
+				"C:/Users/Spiri/Documents/Unreal Projects/CS465_WildCard/Content/VRTemplate/Blueprints/BP_ThrowableObject.uasset",
+				"C:/Users/Spiri/Documents/Unreal Projects/CS465_WildCard/Content/VRTemplate/Blueprints/BP_ThrowableSnap.uasset",
+				"C:/Users/Spiri/Documents/Unreal Projects/CS465_WildCard/Content/VRTemplate/Blueprints/BP_ThrowableSnapFasterXY.uasset",
+				"C:/Users/Spiri/Documents/GitHub/CS465-WildCard/CS465_WildCard 5.5/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Spiri/Documents/Unreal Projects/CS465_WildCard 5.5/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Spiri/Documents/Unreal Projects/CS465_WildCard 5.5/Content/MainLevel.umap",
+				"C:/Users/Spiri/Documents/Unreal Projects/CS465_WildCard 5.5/Content/MyMeshes/HoopMesh.uasset",
+				"C:/Users/Spiri/Documents/Unreal Projects/CS465_WildCard 5.5/Content/MyBlueprints/BP_Hoop.uasset",
+				"C:/Users/Spiri/Documents/Unreal Projects/CS465_WildCard 5.5/Content/MyBlueprints/BP_ThrowableSnapFasterXY.uasset",
+				"C:/Users/Spiri/Documents/Unreal Projects/CS465_WildCard 5.5/Content/StarterContent/Materials/M_AssetPlatform.uasset",
+				"C:/Users/Spiri/Documents/Unreal Projects/CS465_WildCard 5.5/Content/MyUI/Time_Widget.uasset",
+				"C:/Users/Spiri/Documents/Unreal Projects/CS465_WildCard 5.5/Content/MyBlueprints/CustomHUD.uasset",
+				"C:/Users/Spiri/Documents/Unreal Projects/CS465_WildCard 5.5/Content/StarterContent/Materials/M_Basic_Wall.uasset",
+				"C:/Users/Spiri/Documents/Unreal Projects/CS465_WildCard 5.5/Content/VRTemplate/Blueprints/VRGameMode.uasset",
+				"C:/Users/Spiri/Documents/Unreal Projects/CS465_WildCard 5.5/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/Spiri/Documents/Unreal Projects/CS465_WildCard 5.5/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Spiri/Documents/Unreal Projects/CS465_WildCard 5.5/Content/VRTemplate/Blueprints/BP_ThrowableObject.uasset",
+				"C:/Users/Spiri/Documents/Unreal Projects/CS465_WildCard 5.5/Content/VRTemplate/Blueprints/BP_ThrowableSnapFasterXY.uasset",
+				"C:/Users/Spiri/Documents/Unreal Projects/CS465_WildCard 5.5/Content/_GENERATED/Spiri/BP_hoop.uasset",
+				"C:/Users/Spiri/Documents/Unreal Projects/CS465_WildCard 5.5/Content/_GENERATED/Spiri/HoopMesh.uasset",
+				"C:/Users/Spiri/Documents/Unreal Projects/CS465_WildCard 5.5/Content/MyMeshes/Spiri/HoopMesh.uasset",
+				"C:/Users/Spiri/Documents/Unreal Projects/CS465_WildCard 5.5/Content/MyUI/MyUI.uasset",
+				"C:/Users/Spiri/Documents/Unreal Projects/CS465_WildCard/Content/VRTemplate/Blueprints/ThrowableObject.uasset"
+			]
+		}
+	]
+}
